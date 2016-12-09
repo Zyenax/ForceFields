@@ -1,0 +1,7 @@
+name: ForceFields
+version: 1.0
+main: net.ForceFields.main.Main
+author: Blxd
+commands:
+  forcefield:
+    description: Give a player a forcefield!
